@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **travis.quinnelly@collibra.com**
 
-- ⚡ Fun fact **I DJ on the side**
+- ⚡ Fun fact **I DJ for fun!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
