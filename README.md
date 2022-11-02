@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Travis Quinnelly <sup>aka</sup>TQ</h1>
+<h1 align="center">Hi 👋, I'm Travis Quinnelly <sup>aka</sup> TQ</h1>
 <h3 align="center">Leader at Collibra</h3>
 
 - 💬 Ask me about **docker**, **virtualization**, and anything else!
