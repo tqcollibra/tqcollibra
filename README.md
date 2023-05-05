@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Travis Quinnelly <sup>aka</sup> TQ</h1>
-<h3 align="center">Leader at Collibra</h3>
+<h1 align="center">I'm Travis Quinnelly <sup>aka</sup> TQ</h1>
+<h3 align="center">PD Leader at Collibra</h3>
 
 - 💬 Ask me about **docker**, **virtualization**, and anything else!
 
-- 📫 How to reach me **travis.quinnelly@collibra.com**
+- 📫 How to reach me **travis.quinnelly@collibra.com** or _@TQ_ via **Slack**
 
 - ⚡ Fun fact **I DJ for fun!**
 
